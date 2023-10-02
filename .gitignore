@@ -34,7 +34,7 @@ migrate_working_dir/
 
 # Environment
 .env
-lib/di/env.g.dart
+lib/core/di/env.g.dart
 
 # Symbolication related
 app.*.symbols
